@@ -10,8 +10,7 @@ response = requests.get(url)
 data = response.json()
 nirl_data = (data['northern-ireland']) # seperate all the northern ireland dates from the rest
 
-
-print('Northern Ireland 2024 Bank Holidays:')
+# print('Northern Ireland 2024 Bank Holidays:') # this pulls all holidays in the file, for every year
 
 # Create loop to pull all the events that occur on a date which starts with 2024.
 for event in nirl_data['events']:
