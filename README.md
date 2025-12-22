@@ -1,10 +1,14 @@
-# Programming For data Analytics
+# Programming For Data Analytics
 
-Daniel Finnerty Reposity.
+By: Daniel Finnerty
 
 ## Contents
 
 - Assignments
+    - Contains the coding from weekly assignments during the module
 - Project
-- My work
-  
+    - The main project data, notebook, and associatated README file. 
+- My-work
+    - General code for testing/debugging
+
+# End
