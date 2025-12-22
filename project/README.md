@@ -18,6 +18,10 @@ To run this, the following Python packages are required.
 - matplotlib.pyplot
 - seaborn
 
+In the `data` folder, 2 files can be found, which are used for the assessment:
+- `meter_readings` - Daily meter readings from the residence in question, going back over 2 years.
+- `solar_gen` - Daily solar generation potential (hourly data) based off site location, looking back over 5 years.
+
 ### Running the Notebook locally
 The notebook can be ran locally however, prior to doing so the repository must be cloned to your local machine through the following steps:
 
