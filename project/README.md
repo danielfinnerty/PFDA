@@ -6,9 +6,9 @@ By: Daniel Finnerty
 
 This project is an anlaysis of solar generation potential, and comparing that against energy usage, with a view to determine if a quoted solar install makes financial sense.
 
-This is done through learnings gained both from the programming for data analytics module, and through additional research performed as a suplement to these learnings.
+This is done using learnings gained both from the programming for data analytics module, and through additional research performed as a suplement to these learnings.
 
-The code, explanation, and information sources can be found in `solar_assessment'ipynb`.
+The code, explanations, and information sources can be found in the `solar_assessment.ipynb` notebook.
 
 To run this, the following Python packages are required.
 
@@ -46,12 +46,12 @@ git config pull.rebase false
 python -m notebook
 ```
 
-6. Select the `problems.ipynb` file within the `project` folder.
+6. Select the `solar_assessment.ipynb` file within the `project` folder.
 
 7. Click on the double-arrow icon at the top to 'restart the kernell and run all cells'.
 
 
 ### Output
-From running the notebook through the above steps, plots can be seen showing the daily, weekly, and monthly usage, along with potential daily, weekly, and monthly generation potential. In addition to this, the potential savings are calculated, along with the results.
+From running the notebook through the above steps, plots can be seen showing the daily, weekly, and monthly usage, along with potential daily, weekly, and monthly solar generation. In addition to this, the estimated savings are calculated and reviewed, for supporting an overall decision.
 
 # End
